@@ -9,7 +9,7 @@ This is the publication test repository.
 
 Managed by ART-DECOR® Open Tools (ADOT)
 
-![image-20210921163753058](/Users/kai/Documents/Kai/akt/art-decor-tooling/Next Generation Publications/test/img/image-20210921163753058.png)
+![image-20210921163753058](/img/image-20210921163753058.png)
 
 Dies ist ein **Test**. Wenn er gut ausfällt, kann man das Tool ja *nehmen*.
 
