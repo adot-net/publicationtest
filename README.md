@@ -9,11 +9,7 @@ This is the publication test repository.
 
 Managed by ART-DECOR® Open Tools (ADOT)
 
-![image-20210921163753058](/img/image-20210921163753058.png)
-
 Dies ist ein **Test**. Wenn er gut ausfällt, kann man das Tool ja *nehmen*.
-
-<img src="image-20210921171413714.png" alt="image-20210921171413714" style="zoom: 25%;" />
 
 Now _code_ **comes**. And it is in *English* also.
 
